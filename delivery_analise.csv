@@ -1,0 +1,7 @@
+id_pedido,bairro,restaurante_tipo,tempo_entrega_min,avaliacao,valor_pedido
+1,Centro,Pizza,32,5,45.9
+2,Moema,Japones,41,4,78.5
+3,Jardins,Hamburguer,28,5,62.0
+4,Pinheiros,Brasileira,55,3,34.5
+5,Tatuape,Saudavel,38,4,52.3
+6,Itaim,Pizza,29,5,89.0
